@@ -1,0 +1,6 @@
+P1 = input("Enter the name of player 1")
+P2 = input("Enter the name of player 2")
+
+print("Welcome to the dice Stimulation")
+
+Start = input("Are you ready to play? \nType Yes to Start or type anything else\n")
